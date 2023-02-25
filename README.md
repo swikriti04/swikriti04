@@ -5,7 +5,7 @@
 - 🌱 I’m currently upskilling.
 - 📫 Got incredible ideas that you wish to discuss? : [Connect](https://www.linkedin.com/in/swikriti-khadke-2a7468193/)
 - :books: Like to read?: [Follow](https://sciprofiles.com/profile/SwikritiKhadke)
-- 💻 My portfolio [Click here](https://swikriti04.github.io/Mywebsite/)
+- 💻 My portfolio [Click here](https://swikriti04.github.io/MyPortfolio/)
 - ⚡ Fun fact: Few lines of code can do wonders.
 
 **Languages and Tools:**  
