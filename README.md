@@ -1,5 +1,5 @@
 ### Hi there,  👋
-<img src="https://komarev.com/ghpvc/?username=swikriti04&label=Views&color=blue&style=plastic" alt="swikriti04" />
+<img src="https://komarev.com/ghpvc/?username=snh3003&label=Views&color=blue&style=plastic" alt="snh3003" />
 
 - 🔭 Have good experience working on React, React Native, DSA and ML.
 - 🌱 I’m currently upskilling.
